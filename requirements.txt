@@ -1,0 +1,13 @@
+#langgraph==0.0.36
+#langchain==0.2.0
+youtube-transcript-api==0.6.1
+openai==1.30.1  # Only if using OpenAI as fallback
+google-generativeai==0.5.4  # Gemini API via MakerSuite
+gradio==4.27.0
+tiktoken>=0.5.1  # For token counting (optional but useful)
+langgraph==0.0.36
+langchain==0.1.16
+langchain-core==0.1.52  # must stay <0.2.0
+matplotlib 
+networkx
+requests
